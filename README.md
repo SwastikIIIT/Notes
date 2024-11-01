@@ -15,7 +15,7 @@ This application allows users to create, edit, and delete notes, with all data s
 
 - **HTML5** - Structure of the app.
 - **CSS3** - Styling and responsive layout.
-- **JavaScript (Vanilla)** - Functionality for creating, editing, and deleting notes.
+- **JavaScript** - Functionality for creating, editing, and deleting notes.
 
 ## 📸 Screenshots
 
